@@ -1,0 +1,15 @@
+i.icon {
+    font-size: 2.0em;
+}
+
+#read_more_icon{
+    font-size: 1.0em;
+}
+
+.container.main {
+    margin-top: 6.0em;
+}
+
+#delete{
+    display: inline;
+}
